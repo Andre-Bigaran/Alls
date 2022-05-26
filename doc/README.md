@@ -1,1 +1,1 @@
-todo
+Diretório contendo documentação do projeto.

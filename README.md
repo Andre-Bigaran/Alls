@@ -31,6 +31,10 @@ All's tem como objetivo atigir o maximo de pessoas possiveis para a melhoria e s
 
 Nossa equipe tem por agora o objetivo de desenvolver um aplicativo de perguntas e respostas voltadas para o a área da programação e TI.  O *Proby*, esta sendo desenvolvido utilizando o framework *Ionic*, sendo também prototipado em *MIT App Inventor 2* e *VisualG*.
 
-FAZENDO BLABLABLA
+Esses projetos estão disponíveis na pasta *src* desse repositório.
+
+Segue abaixo tutorias para executar cada prototipação.
+
+### MIT App Inventor 2
 
  >**Note:** All's esta em fase de desenvolvimento.

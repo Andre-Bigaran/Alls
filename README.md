@@ -1,24 +1,36 @@
+
 # **Alls** - *We are better together!*
 `Repositório contendo documentação e códigos-fonte relativos ao projeto, Proby, de PI de nossa equipe, Alls.`
-##
 
-## Grupo Alls
- Grupo Alls foi desenvolvido por quatro estudantes de engenharia de software em fevereiro de 2022. Seu mome, "All", e derivado do Ingles `Todos`. O apostofro "s" indica que `Alls` pertence a todos! Por isso *We are better together!* Outro fator e a junçao das iniciais dos colaboradores, sendo elas: 
+# Índice
+1. História
+2. Objetivos e valores
+3. Projetos e tutoriais
+
+## História
+
+O grupo All's foi desenvolvido por quatro estudantes de engenharia de software em fevereiro de 2022. Seu nome, "All", é derivado do inglês "todos". O "'s" indica que `All's` pertence a todos! Por isso *We are better together!* Além disso, temos a junção das iniciais dos colaboradores, sendo elas:
  
- >**A**ndre Vitor
+ >**A**ndré Vitor
  
- >**A**ndre Luiz
+ >**A**ndré Luiz
  
  >**L**orena
  
- >**L**ucas 
+ >**L**ucas
  
 ## Objetivos e valores
 
-Alls tem como objetivo atigir o maximo de pessoas possiveis para a melhoria e solucionamento a partir da tecnologia. Mantendo sua excelencia e seus valores! 
+All's tem como objetivo atigir o maximo de pessoas possiveis para a melhoria e solucionamento a partir da tecnologia. Mantendo sua excelencia e seus valores! 
 
-- [ ] Nosso trabalho depende do conhecimento, informação e tecnologia. E os nossos clientes precisam de ser devidamente informados, de forma simples e objetiva. Portanto, aplicamos o conceito de "simplifique", sempre que possível.
-- [ ] Uma conversa justa e respostas diretas são essenciais para tomar decisões certas e rápidas. Assim nós discutimos, decidimos e entregamos resultados.
-- [ ] Cabe a cada um de nós fazer todo o possível para viver em um futuro sustentável. Cuide de hoje e prepare-se para o amanhã, com uma visão de futuro e uma atitude de aprendizagem ao longo da vida.
- 
- >**Note:** Alls esta em fase de desenvolvimento.
+1. Nosso trabalho depende do conhecimento, informação e tecnologia. E os nossos clientes precisam ser devidamente informados, de forma simples e objetiva. Portanto, aplicamos o conceito de "simplifique", sempre que possível.
+2. Uma conversa justa e respostas diretas são essenciais para tomar decisões certas e rápidas. Assim nós discutimos, decidimos e entregamos resultados.
+3. Cabe a cada um de nós fazer todo o possível para viver em um futuro sustentável. Cuide de hoje e prepare-se para o amanhã, com uma visão de futuro e uma atitude de aprendizagem ao longo da vida.
+
+## Projetos e tutoriais
+
+Nossa equipe tem por agora o objetivo de desenvolver um aplicativo de perguntas e respostas voltadas para o a área da programação e TI.  O *Proby*, esta sendo desenvolvido utilizando o framework *Ionic*, sendo também prototipado em *MIT App Inventor 2* e *VisualG*.
+
+FAZENDO BLABLABLA
+
+ >**Note:** All's esta em fase de desenvolvimento.

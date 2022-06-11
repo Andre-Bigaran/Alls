@@ -43,7 +43,7 @@ Basta criar uma conta no [site](https://appinventor.mit.edu/), baixar o projeto 
 
 Baixe o programa [VisualG](http://visualg3.com.br/download/2086/), os algorítmos .alg e abra-os com o software.
 
-### Ionic
+#### Ionic
 
 Instale o [NodeJS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) e o [Ionic](https://ionicframework.com/docs/intro/cli). Baixe o projeto, e em seu diretório, execute o comando *npm install*. Após isso, inicie o projeto com *ionic serve*.
 

@@ -35,6 +35,16 @@ Esses projetos estão disponíveis na pasta *src* desse repositório.
 
 Segue abaixo tutorias para executar cada prototipação.
 
-### MIT App Inventor 2
+#### MIT App Inventor 2
+
+Basta criar uma conta no [site](https://appinventor.mit.edu/), baixar o projeto [probyMITAppInventor2.aia](https://github.com/Andre-Bigaran/Alls/blob/main/src/probyMITAppInventor2.aia) e importá-lo.
+
+#### VisualG
+
+Baixe o programa [VisualG](http://visualg3.com.br/download/2086/), os algorítmos .alg e abra-os com o software.
+
+### Ionic
+
+Instale o [NodeJS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) e o [Ionic](https://ionicframework.com/docs/intro/cli). Baixe o projeto, e em seu diretório, execute o comando *npm install*. Após isso, inicie o projeto com *ionic serve*.
 
  >**Note:** All's esta em fase de desenvolvimento.

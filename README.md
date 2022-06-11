@@ -39,12 +39,18 @@ Segue abaixo tutorias para executar cada prototipação.
 
 Basta criar uma conta no [site](https://appinventor.mit.edu/), baixar o projeto [probyMITAppInventor2.aia](https://github.com/Andre-Bigaran/Alls/blob/main/src/probyMITAppInventor2.aia) e importá-lo.
 
+![enter image description here](https://raw.githubusercontent.com/Andre-Bigaran/Alls/main/media/mit.gif)
+
 #### VisualG
 
 Baixe o programa [VisualG](http://visualg3.com.br/download/2086/), os algorítmos .alg e abra-os com o software.
 
+![enter image description here](https://raw.githubusercontent.com/Andre-Bigaran/Alls/main/media/visualg.gif)
+
 #### Ionic
 
 Instale o [NodeJS](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) e o [Ionic](https://ionicframework.com/docs/intro/cli). Baixe o projeto, e em seu diretório, execute o comando *npm install*. Após isso, inicie o projeto com *ionic serve*.
+
+![enter image description here](https://raw.githubusercontent.com/Andre-Bigaran/Alls/main/media/ionic.gif)
 
  >**Note:** All's esta em fase de desenvolvimento.
